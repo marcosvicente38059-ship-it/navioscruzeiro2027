@@ -1,0 +1,21 @@
+FÉRIAS 2027 - CRUZEIROS | Protótipo de consulta web
+
+ARQUIVO PRINCIPAL
+- index.html: aplicativo estático de consulta.
+
+COMO TESTAR
+1. Extraia o ZIP.
+2. Abra index.html no Chrome, Edge ou Firefox.
+3. Pesquise cruzeiros, abra detalhes e consulte programação, custos e bebidas.
+
+COMO PUBLICAR COM LINK PÚBLICO
+1. Crie uma conta no GitHub e um repositório público.
+2. Envie index.html para a raiz do repositório.
+3. Em Settings > Pages, selecione Deploy from a branch, branch main e folder /(root).
+4. Salve e aguarde a criação do endereço público.
+Alternativa: use um serviço de hospedagem de sites estáticos que aceite upload de arquivos.
+
+LIMITAÇÕES IMPORTANTES
+- Este é um protótipo somente para consulta; não edita a planilha nem sincroniza alterações futuras.
+- Os dados foram copiados do arquivo fornecido. Valores e fórmulas do Excel foram adaptados para exibição; antes de publicar como versão definitiva, confira especialmente os totais e as fórmulas que usam XLOOKUP, datas e conversão de bebidas.
+- O acesso será público para qualquer pessoa com o link; não publique dados pessoais ou informações confidenciais.
